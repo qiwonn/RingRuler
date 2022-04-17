@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">gradation-view</string>
+    <string name="balance_text">剩余金额</string>
+	<string name="east">东</string>
+	<string name="south_east">东南</string>
+	<string name="south">南</string>
+	<string name="south_west">西南</string>
+	<string name="west">西</string>
+	<string name="north_west">西北</string>
+	<string name="north">北</string>
+	<string name="north_east">东北</string>
+    <color name="test">#eb4c1c</color>
+</resources>
